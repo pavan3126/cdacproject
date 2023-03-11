@@ -1,0 +1,35 @@
+@media all and (min-width: 480px) {
+
+  .satish {
+    margin: 0 auto;
+    padding: 120px 0;
+    max-width: 350px;
+  }
+
+   .Handover form {
+    margin: 0 auto;
+    padding: 20px 0;
+    max-width: 350px;
+  }
+
+  .Billing {
+    padding: 60px 0;
+  }
+
+  .Billing form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+}
+
+.Login Button{
+  padding-left: 150px;
+  padding-right: 200px;
+  max-width: 150px;
+}
+
+.Billing Button{
+  padding-left: 130px;
+  padding-right: 130px;
+}
+

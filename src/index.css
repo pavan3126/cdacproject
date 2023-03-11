@@ -5,9 +5,22 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+   /*background-image: url("/background-large.jpg"), linear-gradient(to right top, #343a40, #2b2c31, #211f22, #151314, #000000);
+  
+  https://cdn2.rcstatic.com/com.rentalcars.185492029745.eu-west-1.web.prod.static-live/images/landing-pages/home/background-large.jpg
+  */
+ 
+  background-repeat: no-repeat;
+  background-size:100% 500%;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.gradient {
+ background:palegoldenrod;
+/*background-image: url("./Family-vaca.jpg"), linear-gradient(to right top, #343a40, #2b2c31, #211f22, #151314, #000000);
+  */
 }
